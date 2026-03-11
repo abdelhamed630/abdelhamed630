@@ -22,3 +22,7 @@ Backend Developer | Python · Django · FastAPI · REST APIs
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhmed-mostafe-111118307)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdelhamed.mostafa@gmail.com)
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelhamed630&show_icons=true&theme=dark)
