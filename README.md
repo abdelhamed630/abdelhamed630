@@ -17,9 +17,9 @@ Backend Developer | Python · Django · FastAPI · REST APIs
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ## Featured Projects
-- 🔐 [Authentication System API](https://github.com/abdelhamed630/auth-api-django) — JWT auth microservice with RBAC
-- 🛒 [E-Commerce Backend API](https://github.com/abdelhamed630/ecommerce-backend-api) — Full e-commerce REST API with Docker
-
+- 🔐 [Authentication System API](https://github.com/abdelhamed630/E_learing) — JWT auth microservice with RBAC
+- 🛒 [E-Commerce Backend API](https://github.com/abdelhamed630/E_learing) — Full e-learning platform REST API with Django
+  
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhmed-mostafe-111118307)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdelhamed.mostafa@gmail.com)
