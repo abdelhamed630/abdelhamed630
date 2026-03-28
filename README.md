@@ -1,12 +1,13 @@
 <div align="center">
-```
-██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
-██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
-██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
-██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
-██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
-╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
-```
+
+<h1>Hi, I'm Abdelhamed Mostafa 👋</h1>
+<h3>Backend Engineer · Python · Django · FastAPI · System Design</h3>
+
+📍 Beni-Suef, Egypt &nbsp;|&nbsp; 💼 Open to Backend Internships & Part-time
+
+</div>
+
+---
 
 ### Backend Engineer · Python · Django · FastAPI · System Design
 
