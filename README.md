@@ -1,108 +1,112 @@
-# Hi, I'm Abdelhamed Mostafa 👋
+<div align="center">
+```
+██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
+██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
+██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
+██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
+██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
+```
 
-🚀 Backend Engineer | Python · Django · FastAPI · System Design
-📍 Beni-Suef, Egypt
-💼 Open to Backend Internships & Part-time Roles
+### Backend Engineer · Python · Django · FastAPI · System Design
+
+📍 Beni-Suef, Egypt &nbsp;|&nbsp; 💼 Open to Backend Internships & Part-time
+
+</div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I am a backend engineer focused on building **scalable, secure, and production-ready systems**.
+> I don't just write code — I design systems.
 
-I care deeply about clean architecture, performance, and designing systems that can handle real-world traffic.
+Backend engineer focused on building **scalable, secure, and production-ready systems**. I care deeply about clean architecture, performance, and designing systems that handle real-world traffic.
 
-* 🔭 Building real-world backend systems with production mindset
-* 🌱 Studying advanced system design & distributed systems
-* ⚡ Focused on performance optimization & scalability
-* 🧩 Writing clean, maintainable, and testable code
+- 🔭 Building real-world backend systems with a production mindset
+- 🌱 Studying advanced system design & distributed systems
+- ⚡ Focused on performance optimization & scalability
+- 🧩 Writing clean, maintainable, and testable code
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Languages:** Python
-* **Frameworks:** Django, FastAPI
-* **Databases:** PostgreSQL
-* **Tools:** Docker, Redis, Git
-* **Core Skills:** REST APIs, Authentication, Payment Systems, API Security, Caching
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🧩 Architecture & Engineering Focus
+## 🧩 Engineering Focus
 
-* Scalable Backend Systems
-* RESTful API Design
-* Database Design & Optimization
-* Authentication & Authorization Systems
-* Payment Integration & Secure Access
-* Caching Strategies (Redis)
-* Clean Architecture & Code Structure
+| Area | Focus |
+|------|-------|
+| ⚙️ Systems | Scalable backend architecture & distributed systems |
+| 🔌 APIs | RESTful design, versioning & API security |
+| 🗄️ Data | DB design, query optimization & indexing |
+| 🔐 Auth | Authentication, authorization & RBAC |
+| 💳 Payments | Secure checkout & payment integration |
+| 🚀 Perf | Redis caching strategies & performance tuning |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce Backend API
+### 🛒 [E-Commerce Backend API](https://github.com/abdelhamed630/E_Commerce)
 
-A **production-ready backend system** for an e-commerce platform built with scalability and performance in mind.
+> Production-ready backend system built for scalability and real-world traffic.
 
-#### 🔥 Key Features:
+- ✅ Secure authentication & authorization system
+- ✅ Product, category & inventory management
+- ✅ Shopping cart & order processing
+- ✅ Payment integration with secure checkout flow
+- ✅ Optimized DB queries and clean REST API
 
-* Secure authentication & authorization system
-* Product, category & inventory management
-* Shopping cart & order processing system
-* Payment integration (secure checkout flow)
-* Optimized database queries & relationships
-* RESTful API with clean architecture
-
-🧠 Tech Used: Django, PostgreSQL, Redis, Docker
-
-🔗 GitHub Repo:
-[https://github.com/abdelhamed630/E_Commerce](https://github.com/abdelhamed630/E_Commerce)
+`Django` `PostgreSQL` `Redis` `Docker`
 
 ---
 
-### 🎓 E-Learning Platform API
+### 🎓 [E-Learning Platform API](https://github.com/abdelhamed630/E_learing)
 
-A scalable backend powering a full e-learning system with secure content access.
+> Scalable LMS backend with role-based access and payment-protected content.
 
-#### 🔥 Key Features:
+- ✅ User authentication & role-based access control (RBAC)
+- ✅ Course & content management system
+- ✅ Exams, grading & progress tracking
+- ✅ Payment integration for protected content
+- ✅ Secure & scalable API structure
 
-* User authentication & role-based access control
-* Course & content management system
-* Exams, grading & progress tracking
-* Payment integration for protected content
-* Secure API with scalable structure
-
-🧠 Tech Used: Django, PostgreSQL
-
-🔗 GitHub Repo:
-[https://github.com/abdelhamed630/E_learing](https://github.com/abdelhamed630/E_learing)
+`Django` `PostgreSQL`
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelhamed630\&show_icons=true\&theme=dark)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelhamed630&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamed630&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-* 💼 LinkedIn: [https://linkedin.com/in/abdelhmed-mostafe-111118307](https://linkedin.com/in/abdelhmed-mostafe-111118307)
-* 📧 Email: [abdelhamed.mostafa@gmail.com](mailto:abdelhamed.mostafa@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhmed-mostafe-111118307)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelhamed.mostafa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelhamed630)
+
+</div>
 
 ---
 
-## ⚡ Engineering Mindset
-
-I don’t just write code — I design systems.
-
-I focus on:
-
-* Writing code that scales
-* Building secure systems
-* Solving real-world backend problems
-
-🚀 Always learning. Always improving.
+<div align="center">
+  <sub>🚀 Always learning. Always improving.</sub>
+</div>
